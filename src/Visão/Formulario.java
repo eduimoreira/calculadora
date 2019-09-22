@@ -169,7 +169,7 @@ public class Formulario extends javax.swing.JFrame {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(0, 51, 204));
+        jPanel1.setBackground(new java.awt.Color(255, 0, 102));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
